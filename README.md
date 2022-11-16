@@ -8,4 +8,4 @@
  - processed_audio_files: a folder that will contain the breathing cicles obtained by running the preprocessing code when applied to the ICBHI_Database that can be downloaded from: https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge
  
  For any aditional information please contact with the repository owner.
- 
+ Please cite us if you reference our materials.
